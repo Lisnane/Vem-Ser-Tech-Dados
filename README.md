@@ -58,11 +58,38 @@ O projeto foi desenvolvido individualmente e tinha como objetivo aplicar os conc
 - Obter pelo menos três dados estatístico simples, entre média, mediana, moda e desvio padrão, a partir de algum agrupamento de dados;
 - Salvar dados estatísticos em um CSV.
 
+---
 
 ## 👩🏽‍💻 **Projeto Técnicas de Programação (PY)**
 
 <div align="justify">
   <p>
 
-Este projeto de análise exploratória tem como objetivo examinar os dados fornecidos pelo Banco Central do Brasil sobre as transações PIX, considerando a perspectiva dos pagadores e recebedores, segmentados por município, estado e região. Os dados, provenientes de fontes oficiais, refletem o volume e o valor das transações PIX líquidas ao longo de vários meses.
+Este projeto, desenvolvido em grupo, teve como objetivo aplicar os conhecimentos adquiridos no módulo Técnicas de Programação para realizar uma análise exploratória de dados. Os tópicos estudados foram:
+
+- **Biblioteca Numpy:** Utilizada para explorar a estruturação dos dados no objeto numpy array que possibilita o trabalho em N dimensões.  
+- **Biblioteca Pandas:** Os dados são geralmente postos em uma estrutura tabular, estruturados em linhas e colunas. 
+
+**Grupo autor do projeto**: Alan Henrique C. Silva, Iago Fonseca M. Pereira, Lisnane Vitória de Oliveira, Márcia Oliveira, Tamira Aboganem e Wilza V. da Silva.
+
+--- 
+
+## 📊 **Banco de Dados**
+
+No módulo de banco de dados o projeto foi desenvolvido individualmente com a seguinte proposta:
+
+- Escolher um Dataset a ser trabalhado;
+- Inserir o mesmo no PostgreSQL;
+- Conectar o PostgreSQL ao Jupyter Notebook;
+- Realizar uma Análise descritiva respondendo as seguintes perguntas utilizando o Jupyter Notebook: 
+    - Qual as tipagens das colunas?;
+    - Quantos nulos temos em cada coluna?;
+    - Quantos valores únicos temos nas colunas categoricas?;
+- Realizar, no Jupyter Notebook, 10 perguntas ao dataset e responde-las com Querys.
+- Gerar Relatório final em HTML.
+
+## 📈 **Vizualização com Power BI**
+
+
+
 
