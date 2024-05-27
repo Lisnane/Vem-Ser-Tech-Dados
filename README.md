@@ -88,8 +88,40 @@ No módulo de banco de dados o projeto foi desenvolvido individualmente com a se
 - Realizar, no Jupyter Notebook, 10 perguntas ao dataset e responde-las com Querys.
 - Gerar Relatório final em HTML.
 
+---
+
 ## 📈 **Vizualização com Power BI**
 
+O projeto do módulo de Vizualização com Power BI, desenvolvido em grupo, teve como objetivo a criação de dashboard utilizando um dataset da nossa escolha. 
+
+Foi escolhido um conjunto de dados de trabalhos na área de dados de 2020 a 2023.
+
+**Grupo autor do projeto**: Alan Henrique C. Silva, Iago Fonseca M. Pereira, Lisnane Vitória de Oliveira, Márcia Oliveira, Tamira Aboganem e Wilza V. da Silva.
+
+---
+
+## 📊 **Estatística**
+
+
+Neste projeto de estatística desenvolvido em grupo, mergulhamos em um conjunto de dados intrigante, revelando segredos por trás dos sorteios de uma loteria. 
+
+Começamos descrevendo e compreendendo as variáveis, importando as bibliotecas necessárias e realizando a visualização e limpeza dos dados. 
+
+Em seguida, exploramos a estatística descritiva para entender padrões e tendências. Criamos visualizações gráficas para dar vida aos dados e calculamos probabilidades para iluminar as chances de diferentes eventos ocorrerem. 
+
+Assim, desvendamos o mistério por trás dos números da sorte, deixando um legado de descobertas e insights para futuras investigações.
+
+**Grupo autor do projeto**: Alan Henrique C. Silva, Iago Fonseca M. Pereira, Lisnane Vitória de Oliveira, Márcia Oliveira, Tamira Aboganem e Wilza V. da Silva.
 
 
 
+---
+
+## 📩**Contatos:**
+
+<h1 align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisnanevitoria/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@lisnane/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5524992308006)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=microsoft-outlook&logoColor=007BFF)](mailto:lisnanevitoria@hotmail.com)
